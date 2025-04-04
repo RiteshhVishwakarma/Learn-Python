@@ -1,0 +1,19 @@
+# all the environments
+.env
+.venv
+.venv
+
+# sqlite databases
+*.db
+*.sqlite
+*.sqlite3
+
+
+# python environments
+env
+venv
+virtualenv
+.venv
+
+
+node_modules
